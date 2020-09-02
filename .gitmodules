@@ -1,0 +1,3 @@
+[submodule "ros-docker"]
+	path = ros-docker
+	url = https://github.com/CuUwrRobotics/ros-docker.git
